@@ -288,9 +288,11 @@
 2.5 시험결과
 
 (1) 요구사항에 대한 시험사례
+
 ![image](https://user-images.githubusercontent.com/48309309/160374734-5e9d8c43-3330-4eec-aef6-549a495a6ad2.png)
 
 (2) 요구사항에 대한 시험결과
+
 ![image](https://user-images.githubusercontent.com/48309309/160374718-52f641ee-1ed9-41d0-98c8-0e26c9604541.png) 
 
 
