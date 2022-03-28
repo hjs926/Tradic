@@ -28,6 +28,7 @@ STRAIGHT Tradic 쓰레기 백과사전 애플리케이션 개발
 ![image](https://user-images.githubusercontent.com/48309309/160373754-61807a0f-95ee-4b26-9751-908cdac64b1d.png)
 
 1.3 개발 목표
+
 ■ 회원가입 및 로그인 기능 + 비회원(익명) 입장 페이지
 
 ![image](https://user-images.githubusercontent.com/48309309/160373933-7d84c68e-833e-4b2f-87f9-875211d09d4a.png)
@@ -35,18 +36,25 @@ STRAIGHT Tradic 쓰레기 백과사전 애플리케이션 개발
 ![image](https://user-images.githubusercontent.com/48309309/160373834-e9705988-f8cb-4579-9b80-8bdb445b64e3.png)
 
 데이터베이스에서 아이디, 비밀번호를 저장하여 회원이 로그인할 수 있도록 한다.
+
 ■ 사용자에게 도움이 되는 기본 분리수거 규칙 설명 페이지
+
 ![image](https://user-images.githubusercontent.com/48309309/160374033-1222b562-018f-4eee-8717-f7de30a1cb3f.png)
 ![image](https://user-images.githubusercontent.com/48309309/160374041-359f49bc-698d-4ffa-bf13-32cfad1d608a.png)
 
 로그인하고 난 후 올바른 분리배출, 분리배출의 핵심 4가지 정보를 얻을 수 있다.
+
 ■ 품목 및 설명 화면 페이지
+
 ![image](https://user-images.githubusercontent.com/48309309/160374081-50b623c3-f426-4145-969c-b53085c25157.png)
 ![image](https://user-images.githubusercontent.com/48309309/160374090-7344c2b9-6699-4070-87f6-27fa91fe8871.png)
 ![image](https://user-images.githubusercontent.com/48309309/160374098-d3037ee4-e017-4a12-83cb-3304f21ab110.png)
-쓰레기 품목에 대한 정보를 살펴볼 수 있도록 한다. 해당하는 품목을 클릭 시 분리배출 방법과 바로 가기 링크를 클릭 시 버릴 수 있도록 해당 사이트로 안내한다.
+
+쓰레기 품목에 대한 정보를 살펴볼 수 있도록 한다. 해당하는 품목을 클릭 시 분리배출 방법과 
+바로 가기 링크를 클릭 시 버릴 수 있도록 해당 사이트로 안내한다.
 
 ■ 게시판 기능 + 댓글 기능 + 자신이 작성한 글 수정 및 확인 기능
+
 ![image](https://user-images.githubusercontent.com/48309309/160374139-e719d1c8-4d5b-4d1c-aade-8971d7f83a35.png)
 ![image](https://user-images.githubusercontent.com/48309309/160374148-99b01614-7cd2-4564-959f-30a12c54e0e2.png)
 
@@ -55,8 +63,12 @@ STRAIGHT Tradic 쓰레기 백과사전 애플리케이션 개발
 1.4 과제 수행 내용, 범위 및 방법
 (1) 과제의 내용과 범위
 ■ 회원, 비회원 모두 가능하게 하여 모든 사람이 이용할 수 있지만, 광고에 유무와 출몰 빈도를 따르게 하여 차별점을 둘 예정
-■ 쓰레기를 검색하게 되면 그에 대한 재활용 여부, 분류 종류, 조심해야 할 점, 처리방법 등을 알려주어 사용자가 올바른 방법으로 쓰레기를 처리하도록 유도
+
+■ 쓰레기를 검색하게 되면 그에 대한 재활용 여부, 분류 종류, 조심해야 할 점, 처리방법 등을 알려주어 사용자가 
+올바른 방법으로 쓰레기를 처리하도록 유도
+
 ■ 게시판을 통해 사용자들이 서로에게 처리방법을 물어보고 댓글을 통하여 해당 주제에 관해 이야기할 수 있음
+
 ■ 다른 제품의 광고를 받아 배너를 제작해 부착함으로써 수익을 창출 또한 광고를 보기 싫어하는 회원들도 많으므로 프리미엄 서비스를 만들어 일정 금액을 받고 광고를 차단하는 기능을 추가
 
 (2) 과제 내용별 참여 학생 간의 역할 분담
