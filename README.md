@@ -134,6 +134,7 @@
 ■ DB – DB 설계 및 환경 구출, 연동, 추출
 
 (3) 활동 추진 시간 계획 (스케줄링)
+
 ![image](https://user-images.githubusercontent.com/48309309/160374299-ee5d6c14-2a1f-4d73-bda6-97bb5b90cf36.png)
 
 (4) 예산 사용
@@ -151,10 +152,15 @@
 (1) 요구사항 도출 방법 (자체 요구사항, 고객의 앙케이트, 웹으로부터 조사 등)
 
 ■ 브레인스토밍을 통한 자체 요구사항 도출
+
 ![image](https://user-images.githubusercontent.com/48309309/160374349-ee8dfdb1-8ef1-4e5d-97cf-11b1d1220401.png)
 
+
 ■ 지인 인터뷰
+
 ![image](https://user-images.githubusercontent.com/48309309/160374398-8e7683e3-7d25-4980-804f-692fe8eacf5e.png)
+
+
 (2) 기능적 요구사항 목록
 
 1. 광고 및 홍보 방지
@@ -204,6 +210,7 @@
 ■ 쓰레기 처리방법을 알려주는 웹 페이지(BLISOG)
 
 ■ 분리수거 설명 앱(내 손 안의 분리배출)
+
 ![image](https://user-images.githubusercontent.com/48309309/160374424-446350f8-c6e3-4f0e-bdca-5ca5c13da934.png)
 
 
@@ -242,28 +249,40 @@
 
 
 (6) 유스케이스다이어그램과 시나리오를 통해 요구사항을 표현
+
 ![image](https://user-images.githubusercontent.com/48309309/160374498-25022127-b4b0-4cd8-9ff7-4ba8532674e1.png)
 
 2.3 설계서
 
 (1) 구조설계 및 상세설계
+
 ![image](https://user-images.githubusercontent.com/48309309/160374528-527de09b-ea25-42d2-8fe9-f7244dd057d1.png)
+
 ![image](https://user-images.githubusercontent.com/48309309/160374558-325162c1-8b1e-446e-aaeb-ba2e665c9db5.png)
 
 (2) 화면설계
+
 ![image](https://user-images.githubusercontent.com/48309309/160374581-9b983495-ee4d-4b29-8513-924cbf023c82.png)
 
 2.4 구현(코딩 등) 결과
 
 (1) 소스 코드
+
 ![image](https://user-images.githubusercontent.com/48309309/160374603-b024af3a-8354-4fa5-92c4-dfe9232664fc.png)
+
 ![image](https://user-images.githubusercontent.com/48309309/160374615-f8fcd226-3692-43ad-aaca-11c1fa8b4f1e.png)
+
 ![image](https://user-images.githubusercontent.com/48309309/160374623-ffd72935-5b99-48ed-9750-ae8bb4e53486.png)
+
 ![image](https://user-images.githubusercontent.com/48309309/160374631-f49857c7-b4e0-463b-875d-461615e507ba.png)
 
+
 (2) 구현한 시스템
+
 ![image](https://user-images.githubusercontent.com/48309309/160374663-427272b6-fb59-4361-8a08-0af6aeefb199.png)
+
 ![image](https://user-images.githubusercontent.com/48309309/160374672-b4fe5738-5be6-4ffc-bd5e-ae9116157dcb.png)
+
 ![image](https://user-images.githubusercontent.com/48309309/160374687-88c1ebd3-8ec3-4bd9-b36e-80dc48e8eb08.png)
 
 2.5 시험결과
@@ -297,7 +316,8 @@
 
 3.2 향후 연구개발 내용
 
-■ 카테고리에 있는 쓰레기 종류뿐만 아니라 사진을 찍거나 검색을 통해 정보를 얻을 수 있도록 데이터베이스 확장 및 사진을 통한 물건 인식 기술
+■ 카테고리에 있는 쓰레기 종류뿐만 아니라 사진을 찍거나 검색을 통해 정보를 얻을 수 있도록 데이터베이스 확장 및 사진을 통한 물건 
+인식 기술
 
 ■ 알루미늄 캔, 플라스틱 등 성질은 달라도 색, 외형이 같은 경우 구분하여서 버릴 수 있도록 앱을 학습시켜 구분할 수 있도록 하는 기능
 
