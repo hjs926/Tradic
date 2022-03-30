@@ -1,6 +1,6 @@
-# 캡스톤 디자인 결과보고서
+<h1 align="center">캡스톤 디자인 결과보고서</h1>
 
-## STRAIGHT Tradic 쓰레기 백과사전 애플리케이션 개발
+<p align="center"><strong>STRAIGHT Tradic 쓰레기 백과사전 애플리케이션 개발</strong></p>
 
 ## 1. 수행 과제 개요 - 과제 개발 요약
 
